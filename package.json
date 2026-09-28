@@ -1,0 +1,8 @@
+{
+  "name":"central-dos-desempregados",
+  "version":"0.1.0",
+  "private":true,
+  "scripts":{"dev":"next dev","build":"next build","start":"next start"},
+  "dependencies":{"next":"latest","react":"latest","react-dom":"latest","lucide-react":"latest","pg":"latest"},
+  "devDependencies":{"typescript":"latest","@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","@types/pg":"latest"}
+}
